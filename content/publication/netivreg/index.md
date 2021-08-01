@@ -31,7 +31,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://github.com/jjestra/articles/blob/master/content/publication/netivreg/netivreg_presentation.pdf
 url_source:
 url_video:
 
@@ -55,5 +55,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: 'netivreg_presentation'
+slides: ''
 ---
