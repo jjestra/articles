@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Survival analysis of bank note circulation: Fitness, network structure, and machine learning"
-authors: [Estrada, P.; Estrada, J.; Huynh, K.P.; Jacho-Chavez, D.T.; Sanchez-Aragon, L]
+title: "netivreg: Estimation of Peer Effects in Endogenous Social Networks"
+authors: [Pablo Estrada, Juan Estrada, Kim P. Huynh, David T. Jacho-Chavez, Leonardo Sanchez-Aragon]
 
 
 # Publication type.
