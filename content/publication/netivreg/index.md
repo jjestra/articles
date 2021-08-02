@@ -31,7 +31,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: https://docs.google.com/viewer?url=https://github.com/jjestra/articles/raw/master/content/publication/netivreg/netivreg_presentation.pdf
+url_slides: https://github.com/jjestra/articles/raw/master/content/publication/netivreg/netivreg_presentation.pdf
 url_source:
 url_video:
 
