@@ -27,7 +27,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: 
-url_code: https://github.com/jjestra/articles/tree/master/content/publication/netivreg/code
+url_code: https://github.com/jjestra/netivreg
 url_dataset:
 url_poster:
 url_project:
